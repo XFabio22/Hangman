@@ -19,8 +19,6 @@ public class Hangman {
                 "happy", "little", "simple", "strong", "yellow", "purple", "silver", "golden", "bright", "quiet",
                 "dance", "sleep", "laugh", "write", "speak", "listen", "build", "think", "learn", "believe"
         };
-
-        // scanner
         Scanner scan = new Scanner(System.in);
         String playAgain = "";
         do {
